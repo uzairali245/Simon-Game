@@ -12,10 +12,10 @@ Game Over once you click on a wrong block, you can press any key to restart the 
 ![Screen Shot 2022-05-24 at 2 03 03 AM](https://user-images.githubusercontent.com/64384752/169960513-43955f96-a60b-49e1-8350-0c11743a3f5a.png)
  
 # Technologies 
- HTML for general page structure
- CSS for basic design
- Extensive use of JavaScript to handle all functionalities
- Using Jquery to add event listeners to detect keyboard or mouse clicks and used it's built-in functions to implement animations 
+ HTML for general page structure.
+ CSS for basic front design using classes.
+ Extensive use of JavaScript to handle all functionalities.
+ Using Jquery to add event listeners to detect keyboard or mouse clicks and used it's built-in functions to implement animations.
 
 
 
